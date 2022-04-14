@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [require('./tailwind-animation-delay')],
+  plugins: [require('tailwind-animation-delay')],
 };
 ```
 
@@ -56,6 +56,6 @@ module.exports = {
       3: '3000',
     },
   },
-  plugins: [require('./tailwind-animation-delay')],
+  plugins: [require('tailwind-animation-delay')],
 };
 ```

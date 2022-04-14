@@ -1,0 +1,28 @@
+{
+  "name": "tailwind-animation-delay",
+  "version": "1.0.0",
+  "description": "This plugin helps you delay your animations in tailwind easily",
+  "main": "tailwind-animation-delay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidreza4dev/tailwindcss-animation-delay-plugin.git"
+  },
+  "keywords": [
+    "animation",
+    "delay",
+    "tailwindcss",
+    "animation",
+    "delay",
+    "plugin",
+    "tailwindcss"
+  ],
+  "author": "Hamidreza Firouzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidreza4dev/tailwindcss-animation-delay-plugin/issues"
+  },
+  "homepage": "https://github.com/hamidreza4dev/tailwindcss-animation-delay-plugin#readme"
+}
